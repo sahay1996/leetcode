@@ -46,15 +46,15 @@
 <td><code>25 Day21 ✔️</code></td>
 <td><code>26 Day22 ✔️</code></td>
 <td><code>27 Day23 ✔️<code></td>
-<td>28 Day24 ✔️</td>
+<td><code>28 Day24 ✔️</code></td>
 </tr>
 <tr>
-<td>29 Day25 ✔️</td>
-<td>30 Day26 ✔️</td>
-<td>31 Day27 ✔️</td>
-<td>1  Day28 ✔️</td>
-<td>2  Day29 ✔️</td>
-<td>3  Day30 ✔️</td>
+<td><code>29 Day25 ✔️</code></td>
+<td><code>30 Day26 ✔️</code></td>
+<td><code>31 Day27 ✔️</code></td>
+<td><code>1  Day28 ✔️</code></td>
+<td><code>2  Day29 ✔️</code></td>
+<td><code>3  Day30 ✔️</code></td>
 <td></td>
 </tr>
 </tbody>
